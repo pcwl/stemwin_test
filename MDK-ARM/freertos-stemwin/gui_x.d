@@ -1,0 +1,9 @@
+freertos-stemwin\gui_x.o: ..\STemWin544\OS\GUI_X.c
+freertos-stemwin\gui_x.o: ..\STemWin544\inc\GUI.h
+freertos-stemwin\gui_x.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\stddef.h
+freertos-stemwin\gui_x.o: ..\STemWin544\inc\GUI_ConfDefaults.h
+freertos-stemwin\gui_x.o: ..\STemWin544\Config\GUIConf.h
+freertos-stemwin\gui_x.o: ..\STemWin544\inc\GUI_Type.h
+freertos-stemwin\gui_x.o: ..\STemWin544\inc\LCD.h
+freertos-stemwin\gui_x.o: ..\STemWin544\inc\Global.h
+freertos-stemwin\gui_x.o: ..\STemWin544\inc\GUI_Version.h

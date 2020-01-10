@@ -1,0 +1,5 @@
+bsp_lcd.c:11:6:LCD_IO_Init	8	static
+bsp_lcd.c:26:6:LCD_IO_WriteData	16	static
+bsp_lcd.c:34:6:LCD_IO_WriteReg	16	static
+bsp_lcd.c:45:10:LCD_IO_ReadData	32	static
+bsp_lcd.c:67:6:LCD_Delay	16	static
